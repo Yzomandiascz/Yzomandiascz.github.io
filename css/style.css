@@ -1,0 +1,36 @@
+header {
+    color: white;
+}
+
+body {
+    background-color:red;
+}
+
+header {
+    color: white;
+}
+h1, h2, h3, h4, h5, h6 {
+    color:white;
+    text-decoration: underline overline;
+    text-transform: uppercase;
+}
+footer {
+    color: white;
+}
+#slavia {
+    color:blue;
+}
+.Bulharsko {
+    color:yellow;
+}
+footer .kontejner p { /* uroven tri */
+    font-size: 48px;
+    text-decoration: underline;
+    color: #cd16ac;
+}
+
+footer .kontejner div span h3 { /* uroven cinco */
+    font-size: 56px;
+    color: #74ff05;
+    text-decoration: line-through;
+}
